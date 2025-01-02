@@ -3,3 +3,10 @@
   --rounding: 3px;
   --accent: #e50909;
 }
+
+/* Login Page */
+
+#loginPage {
+  background: url('https://i.ytimg.com/vi/avCWDDox1nE/maxresdefault.jpg');
+  background-size: cover;
+}
